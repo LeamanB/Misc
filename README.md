@@ -4,7 +4,7 @@
 This project was just a simple Python refresher course for me. Nothing special to see here.
 
 ## Parts
-Variables
-Expressions
-Comparison
-Loops
+1. Variables
+2. Expressions
+3. Comparison
+4. Loops
