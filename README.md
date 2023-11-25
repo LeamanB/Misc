@@ -1,7 +1,7 @@
 # Python Refresher
-### Simple sheet showing python concepts.
+### Simple sheet showing python concepts taught in a coursera course.
 
-This is just a python file revisiting common python coding concepts. Nothing special to see here.
+This project was just a simple Python refresher course for me. Nothing special to see here.
 
 ## Parts
 Variables
